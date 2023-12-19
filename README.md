@@ -1,12 +1,12 @@
-Descrição do Projeto
+Descrição do Projeto : 
 Este projeto consiste em um simples sorteador que permite ao usuário inserir itens para serem sorteados. O usuário pode adicionar itens individualmente e, ao clicar no botão "Sortear", o sistema escolherá aleatoriamente um item da lista.
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas :
 HTML
 CSS
 JavaScript
 
-Funcionalidades
+Funcionalidades :
 Adição de itens individualmente.
 Sorteio aleatório de itens.
 Efeito de zoom nos botões ao passar o mouse.
