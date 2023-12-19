@@ -13,17 +13,12 @@ Efeito de zoom nos botões ao passar o mouse.
 Interface amigável e responsiva.
 
 
-Como Utilizar
+Como Utilizar :
 Abra o arquivo index.html em seu navegador.
 Insira os itens desejados no campo designado.
 Clique no botão "Adicionar Item" para adicionar o item à lista.
 Continue adicionando itens conforme necessário.
 Ao terminar, clique no botão "Sortear" para escolher um item aleatório da lista.
 
-
-Personalização e Modificações
-A interface utiliza a fonte "Roboto" para uma aparência moderna.
-As cores foram escolhidas para proporcionar uma experiência visual agradável.
-O código está estruturado de forma clara e modular para facilitar futuras modificações
 
 
